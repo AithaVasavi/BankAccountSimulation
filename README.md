@@ -1,6 +1,7 @@
 # BankAccountSimulation  
 
 🏦 **Bank Account Simulation (Java, Console-based)**  
+
 📌 **Objective**  
 
 A simple Bank Account Simulation built in Java (Eclipse IDE) that demonstrates core OOP principles and console-based interaction.  
@@ -82,7 +83,7 @@ BankSimulation/
 4. Transfer
 5. Print Statement
 6. List Accounts
-7. Exit
+7. Exit  
 Choose (1-7): 1  
 Account number: A001  
 Owner name: Vasuki  
@@ -103,13 +104,15 @@ Transferred ₹ 300.00 from A001 to A002
 
 Choose (1-7): 5  
 Account number: A001  
----------------------------------------------------------------  
-Account: A001 | Owner: Vasuki | Balance: ₹ 9700.00  
-Date/time           | Type         |     Amount | Balance     | Description  
---------------------------------------------------------------------------  
-2025-09-29 15:45:12 | DEPOSIT      |    10000.00 | Balance: 10000.00 | Initial deposit  
-2025-09-29 15:47:08 | TRANSFER_OUT |     300.00 | Balance:  9700.00 | To A002  
---------------------------------------------------------------------------  
+______________________________________________________________________________________  
+
+Account:A001 | Owner: Vasuki | Balance: ₹ 9700.00  
+Date/time            | Type               |     Amount      | Balance            | Description  
+
+______________________________________________________________________________________  
+
+2025-09-29  15:45:12 | DEPOSIT            |    10000.00     | Balance: 10000.00  | Initial Deposit   
+2025-09-29  15:47:08 | TRANSFER_OUT       |      300.00     | Balance:  9700.00  | To A002     
 
 ---
 
