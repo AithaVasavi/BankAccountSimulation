@@ -24,15 +24,15 @@ The project simulates accounts, deposits, withdrawals, transfers, and transactio
 
 7.✅ Demonstrates:  
 
-7a.Classes & Objects  
+                7a.Classes & Objects  
 
-7b.Inheritance-ready design (Account can be extended for SavingsAccount / CurrentAccount)  
+                7b.Inheritance-ready design (Account can be extended for SavingsAccount / CurrentAccount)  
 
-7c.Encapsulation (private fields + public methods)  
+                7c.Encapsulation (private fields + public methods)  
 
-7d.Transaction history management with ArrayList  
+                7d.Transaction history management with ArrayList  
 
-7e.Exception handling & input validation  
+                7e.Exception handling & input validation  
 
 ---
 
@@ -83,37 +83,37 @@ BankSimulation/
 5. Print Statement
 6. List Accounts
 7. Exit
-Choose (1-7): 1
-Account number: A001
-Owner name: Vasuki
-Initial deposit: 10000
-Created: A001 - Vasuki | Balance: ₹ 10000.00
+Choose (1-7): 1  
+Account number: A001  
+Owner name: Vasuki  
+Initial deposit: 10000  
+Created: A001 - Vasuki | Balance: ₹ 10000.00  
 
-Choose (1-7): 1
-Account number: A002
-Owner name: Yash
-Initial deposit: 8000
-Created: A002 - Yash | Balance: ₹ 8000.00
+Choose (1-7): 1  
+Account number: A002  
+Owner name: Yash  
+Initial deposit: 8000  
+Created: A002 - Yash | Balance: ₹ 8000.00  
 
-Choose (1-7): 4
-From account: A001
-To account: A002
-Amount: 300
-Transferred ₹ 300.00 from A001 to A002
+Choose (1-7): 4  
+From account: A001  
+To account: A002  
+Amount: 300  
+Transferred ₹ 300.00 from A001 to A002  
 
-Choose (1-7): 5
-Account number: A001
----------------------------------------------------------------
-Account: A001 | Owner: Vasuki | Balance: ₹ 9700.00
-Date/time           | Type         |     Amount | Balance     | Description
---------------------------------------------------------------------------
-2025-09-29 15:45:12 | DEPOSIT      |    10000.00 | Balance: 10000.00 | Initial deposit
-2025-09-29 15:47:08 | TRANSFER_OUT |     300.00 | Balance:  9700.00 | To A002
---------------------------------------------------------------------------
+Choose (1-7): 5  
+Account number: A001  
+---------------------------------------------------------------  
+Account: A001 | Owner: Vasuki | Balance: ₹ 9700.00  
+Date/time           | Type         |     Amount | Balance     | Description  
+--------------------------------------------------------------------------  
+2025-09-29 15:45:12 | DEPOSIT      |    10000.00 | Balance: 10000.00 | Initial deposit  
+2025-09-29 15:47:08 | TRANSFER_OUT |     300.00 | Balance:  9700.00 | To A002  
+--------------------------------------------------------------------------  
 
 ---
 
-**Learning Outcomes**  
+🎯 **Learning Outcomes**   
 
 1.Apply Object-Oriented Programming (OOP) concepts in Java  
 
